@@ -1,1 +1,1 @@
-This repository contains the jupyter notebooks for the code that was used in the implementation of the thesis "A Text Mining Assessment of Business Fields within the German Energy Market". The raw data of the results has also been included.
+This repository contains the jupyter notebooks for the code that was used in the implementation of the thesis "A Text-Mining Based Assessment of Business Fields within the German Energy Market". The raw data of the results has also been included along with the business model thesaurus and the stemmed business model thesaurus.
